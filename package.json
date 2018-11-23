@@ -1,0 +1,14 @@
+{
+  "name": "keep_child_alive",
+  "version": "1.0.0",
+  "description": "Spawn Child Process and Keep it Alive",
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wchang28/keep_child_alive.git"
+  },
+  "author": "Wen Chang",
+  "license": "MIT"
+}
